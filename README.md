@@ -1,16 +1,23 @@
-# React + Vite
+# SKY CAST - Weather Tracking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The future of weather tracking. Instant. Accurate. Minimal.
 
-Currently, two official plugins are available:
+## Live Demo
+**Check out the live app here:** (https://sky-cast-pro-orpin.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Features
+* **Real-time Weather:** Get instant updates using OpenWeatherMap API.
+* **Responsive UI:** Fully optimized for Mobile and Desktop screens.
+* **Modern Stack:** Built with React 18 and Tailwind CSS for a sleek look.
+* **Fast Performance:** Powered by Vite.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
+* **Frontend:** React.js, Tailwind CSS
+* **Routing:** React Router Dom
+* **API:** OpenWeatherMap API
+* **Deployment:** Vercel
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+Developed by Sarika Malhotra 
